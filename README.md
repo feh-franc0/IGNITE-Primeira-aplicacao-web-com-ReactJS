@@ -1,2 +1,2 @@
 # IGNITE-Primeira-aplicacao-web-com-ReactJS
-## Modulo: Consumindo API !
+## Modulo: Consumindo API, finalizado !
