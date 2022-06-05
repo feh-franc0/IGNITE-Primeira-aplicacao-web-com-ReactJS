@@ -1,2 +1,2 @@
 # IGNITE-Primeira-aplicacao-web-com-ReactJS
-## Modulo: Modal & Forms !
+## Modulo: Modal & Forms, finalizado !
